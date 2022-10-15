@@ -1,2 +1,2 @@
-navidia-smi
+nvidia-smi
 system pause
