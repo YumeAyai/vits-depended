@@ -1,2 +1,0 @@
-navidia-smi
-system pause
